@@ -1,0 +1,1018 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.css": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "\u0000plugin-vue:export-helper": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/App.vue": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "\u0000vite/preload-helper": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/router.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/basic.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/props.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vant/use/dist/index.esm.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/validate.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/dom.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/format.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/deep-assign.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/locale/lang/zh-CN.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/locale/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/create.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/constant.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/interceptor.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/with-install.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-height.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-placeholder.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar/ActionBar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-expose.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-route.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/badge/Badge.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/badge/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/config-provider/ConfigProvider.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/icon/Icon.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/icon/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/loading/Loading.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/loading/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/button/Button.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/button/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar-button/ActionBarButton.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar-button/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar-icon/ActionBarIcon.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-bar-icon/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/popup/shared.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-touch.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-lock-scroll.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-lazy-render.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/on-popup-reopen.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/overlay/Overlay.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/overlay/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/popup/Popup.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/popup/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-sheet/ActionSheet.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/action-sheet/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/deep-clone.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/picker/PickerColumn.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/picker/Picker.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/picker/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/area/Area.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/area/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cell/Cell.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cell/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/form/Form.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/form/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/field/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-id.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/field/Field.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/field/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/utils/mount-component.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/toast/lock-click.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/toast/Toast.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/toast/function-call.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/switch/Switch.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/switch/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-edit/AddressEditDetail.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-edit/AddressEdit.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-edit/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/radio-group/RadioGroup.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/radio-group/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tag/Tag.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tag/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/checkbox/Checker.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/radio/Radio.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/radio/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-list/AddressListItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-list/AddressList.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/address-list/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-refs.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/datetime-picker/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/CalendarDay.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/CalendarMonth.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/CalendarHeader.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/Calendar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/calendar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/image/Image.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/image/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/card/Card.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/card/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabs/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-visibility-change.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sticky/Sticky.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sticky/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabs/TabsTitle.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe/Swipe.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabs/TabsContent.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabs/Tabs.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/composables/use-tab-status.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe-item/SwipeItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tab/Tab.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tab/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabs/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cascader/Cascader.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cascader/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cell-group/CellGroup.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/cell-group/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/checkbox-group/CheckboxGroup.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/checkbox/Checkbox.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/checkbox/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/checkbox-group/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/circle/Circle.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/circle/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/row/Row.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/col/Col.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/col/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/collapse/Collapse.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/collapse/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/collapse-item/CollapseItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/collapse-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/config-provider/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-card/ContactCard.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-card/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-edit/ContactEdit.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-edit/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-list/ContactList.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/contact-list/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/count-down/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/count-down/CountDown.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/count-down/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon/Coupon.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon-cell/CouponCell.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon-cell/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/empty/Images.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/empty/Empty.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/empty/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon-list/CouponList.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/coupon-list/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/datetime-picker/TimePicker.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/datetime-picker/DatePicker.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/datetime-picker/DatetimePicker.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/datetime-picker/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dialog/Dialog.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dialog/function-call.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/divider/Divider.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/divider/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dropdown-menu/DropdownMenu.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dropdown-item/DropdownItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dropdown-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/dropdown-menu/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/grid/Grid.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/grid/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/grid-item/GridItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/grid-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/image-preview/ImagePreviewItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/image-preview/ImagePreview.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/image-preview/function-call.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/index-bar/IndexBar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/index-anchor/IndexAnchor.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/index-anchor/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/index-bar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/list/List.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/list/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/nav-bar/NavBar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/nav-bar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/notice-bar/NoticeBar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/notice-bar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/notify/Notify.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/notify/function-call.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/number-keyboard/NumberKeyboardKey.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/number-keyboard/NumberKeyboard.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/number-keyboard/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/pagination/Pagination.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/pagination/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/password-input/PasswordInput.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/password-input/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/@vant/popperjs/dist/index.esm.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/popover/Popover.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/popover/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/progress/Progress.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/progress/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/pull-refresh/PullRefresh.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/pull-refresh/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/rate/Rate.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/rate/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/row/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/search/Search.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/search/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/share-sheet/ShareSheet.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/share-sheet/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sidebar/Sidebar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sidebar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sidebar-item/SidebarItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/sidebar-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/skeleton/Skeleton.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/skeleton/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/slider/Slider.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/slider/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/steps/Steps.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/step/Step.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/step/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/stepper/Stepper.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/stepper/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/steps/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/submit-bar/SubmitBar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/submit-bar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe-cell/SwipeCell.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/swipe-cell/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabbar/Tabbar.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabbar/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabbar-item/TabbarItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tabbar-item/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tree-select/TreeSelect.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/tree-select/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/uploader/utils.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/uploader/UploaderPreviewItem.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/uploader/Uploader.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/uploader/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/es/index.mjs": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "node_modules/vant/lib/index.css": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/main.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "src/entry-client.js": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "index.html": [
+    "/test/assets/Inter-Italic.bab4e808.woff2",
+    "/test/assets/Inter-Italic.7b187d57.woff"
+  ],
+  "About.4fbbf0b9.js": [
+    "/test/assets/About.97ae0ac2.css"
+  ],
+  "External.3219ea5d.js": [],
+  "Home.11dbf6f9.js": [
+    "/test/assets/Home.098a0457.css"
+  ],
+  "Store.c97baf17.js": [
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "src/assets/button.css": [
+    "/test/assets/About.4fbbf0b9.js",
+    "/test/assets/About.97ae0ac2.css"
+  ],
+  "src/components/button.js": [
+    "/test/assets/About.4fbbf0b9.js",
+    "/test/assets/About.97ae0ac2.css"
+  ],
+  "src/pages/About.vue?vue&type=style&index=0&scoped=4b6753f8&lang.css": [
+    "/test/assets/About.4fbbf0b9.js",
+    "/test/assets/About.97ae0ac2.css"
+  ],
+  "src/pages/About.vue": [
+    "/test/assets/About.4fbbf0b9.js",
+    "/test/assets/About.97ae0ac2.css"
+  ],
+  "node_modules/example-external-component/ExampleExternalComponent.vue": [
+    "/test/assets/External.3219ea5d.js"
+  ],
+  "src/pages/External.vue": [
+    "/test/assets/External.3219ea5d.js"
+  ],
+  "src/pages/Home.vue?used&vue&type=style&index=0&lang.module.css": [
+    "/test/assets/Home.11dbf6f9.js",
+    "/test/assets/Home.098a0457.css"
+  ],
+  "src/pages/Home.vue": [
+    "/test/assets/Home.11dbf6f9.js",
+    "/test/assets/Home.098a0457.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "node_modules/vuex/dist/vuex.esm-bundler.js": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "src/pages/Store.vue?vue&type=style&index=0&scoped=91e93cb7&lang.css": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ],
+  "src/pages/Store.vue": [
+    "/test/assets/Store.c97baf17.js",
+    "/test/assets/Store.3d7e340f.css"
+  ]
+}
